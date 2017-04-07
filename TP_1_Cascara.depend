@@ -1,7 +1,7 @@
 # depslib dependency file v1.0
 1491405066 source:d:\utn\programacion i\calculadora\calculadora\funciones.c
 
-1491404990 source:d:\utn\programacion i\calculadora\calculadora\main.c
+1491405673 source:d:\utn\programacion i\calculadora\calculadora\main.c
 	<stdio.h>
 	<stdlib.h>
 	<ctype.h>
